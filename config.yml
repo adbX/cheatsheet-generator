@@ -1,0 +1,39 @@
+# Add a title for your cheatsheet
+title: adb's league shortcuts
+shortcuts:
+    win32:
+      A: Ability A
+      W: Ability W
+      E: Ability E
+      T: Ability T
+      D: Spell D
+      F: Flash
+      1: Trinket
+      2: Item 1
+      3: Item 2
+      4: Item 3
+      5: Item 4
+      G: Item 5
+      V: Item 6
+      Shift+A: Self Ability A
+      Shift+W: Self Ability W
+      Shift+E: Self Ability E
+      Shift+T: Self Ability T
+      Alt+A: Level up Ability A
+      Alt+W: Level up Ability W
+      Alt+E: Level up Ability E
+      Alt+T: Level up Ability T
+      X: Target champions only
+      B: Teleport home
+      R: Player Attack Move
+      F1: Select Ally 1
+      F2: Select Ally 2
+      F3: Select Ally 3
+      F4: Select Ally 4
+      Y: Toggle Camera Lock
+      N: Area is warded ping
+      H: Open emote wheel
+      P: Open shop
+      Alt+MB1: Quick retreat ping
+      Ctrl+MB1: Quick retreat ping
+
